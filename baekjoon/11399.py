@@ -1,3 +1,4 @@
+## ATM ##
 people = int(input())
 time_list = list(map(int, input().split()))
 time_list.sort()

@@ -1,3 +1,5 @@
+## 블랙잭 ##
+
 card_num, num = list(map(int, input().split()))
 card_list = list(map(int, input().split()))
 length = len(card_list)

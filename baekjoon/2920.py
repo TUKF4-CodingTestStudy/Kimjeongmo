@@ -1,3 +1,5 @@
+## 음계 ##
+
 num_list = list(map(int, input().split()))
 
 ## 내 풀이 ##
