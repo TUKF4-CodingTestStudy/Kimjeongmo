@@ -1,4 +1,5 @@
 ## 수 찾기 ##
+
 n = int(input())
 list1 = set(map(int, input().split()))
 m = int(input())
